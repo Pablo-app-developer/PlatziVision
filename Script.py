@@ -21,6 +21,7 @@ response = client.chat.completions.create(
         }
     ],
 )
-
+max_tokens=100
+temperature=0.5
 
 print(response.choices[0].message.content)
