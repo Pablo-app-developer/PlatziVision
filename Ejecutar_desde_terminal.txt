@@ -1,0 +1,42 @@
+C:\Users\PABLO RAMIREZ>cd C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\venv\Scripts
+
+C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\venv\Scripts>activate
+
+(venv) C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\venv\Scripts>cd C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\ChatCompletionAPI
+
+(venv) C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\ChatCompletionAPI>python Script.py
+¡Hola! Soy PlatziVision, una inteligencia artificial preparada para ayudarte y responder tus preguntas. Estoy aquí para facilitar tu aprendizaje y brindarte información relevante. ¿En qué puedo ayudarte hoy?
+
+(venv) C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\ChatCompletionAPI>
+
+PASOS DESDE CHAT GPT
+1. Abre la terminal de comandos
+Presiona Win + R, escribe cmd, y presiona Enter.
+También puedes abrir PowerShell si prefieres trabajar desde allí.
+
+2. Activa el entorno virtual
+Si tu script depende de bibliotecas instaladas en un entorno virtual, activa el entorno antes de ejecutar el script:
+
+Navega al directorio donde está el entorno virtual:
+
+cd C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\venv\Scripts
+
+Activa el entorno virtual:
+
+activate
+
+Deberías ver algo como (venv) al principio de la línea de comandos.
+
+3. Navega al directorio del script
+Después de activar el entorno virtual, navega al directorio que contiene el archivo Script.py:
+
+cmd
+Copiar código
+cd C:\Users\PABLO RAMIREZ\OneDrive - ITALCOL S.A\Escritorio\PABLO RAMIREZ\GPT\ChatCompletionAPI
+4. Ejecuta el script
+Usa el siguiente comando para ejecutar el script con Python:
+
+cmd
+Copiar código
+python Script.py
+Si usas PowerShell, el comando es el mismo.
